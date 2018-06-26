@@ -13,7 +13,7 @@ namespace SoccerStats
         {
             var currentDirector = Directory.GetCurrentDirectory();
             DirectoryInfo directoryInfo = new DirectoryInfo(currentDirector);
-            StreamReader
+            
         }
     }
 }
