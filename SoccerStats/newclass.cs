@@ -8,5 +8,6 @@ namespace SoccerStats
 {
     class newclass
     {
+        public int class1 { get; set; }
     }
 }
